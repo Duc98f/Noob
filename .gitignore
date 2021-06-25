@@ -1,0 +1,7 @@
+configs.settings.local.py
+
+db.sqlite3
+
+venv
+
+.idea
